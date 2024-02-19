@@ -1,4 +1,4 @@
-# Image Processing Pipeline README
+# Image Preprocessing for Kidney Stone Detection
 
 This README file provides a step-by-step guide to my image preprocessing implemented in MATLAB. The pipeline is designed for kidney stone detection, aiming to enhance the quality of medical images before applying detection algorithms. Each step is described along with corresponding images to illustrate the processing.
 
